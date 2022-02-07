@@ -126,7 +126,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
@@ -424,7 +424,7 @@
             <dependency>
                 <groupId>org.reflections</groupId>
                 <artifactId>reflections</artifactId>
-                <version>0.9.9</version>
+                <version>0.10.2</version>
             </dependency>
 
             <!-- Needed for Hex transforms (security, cookies) and more... -->
