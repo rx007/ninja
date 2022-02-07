@@ -63,7 +63,7 @@
         <hibernate.version>4.3.8.Final</hibernate.version>
         <jackson.version>2.5.1</jackson.version>
         <guice.version>4.0</guice.version>
-        <metrics.version>3.1.1</metrics.version>
+        <metrics.version>3.2.6</metrics.version>
         <slf4j.version>1.7.13</slf4j.version>
         <powermock.version>1.5.6</powermock.version>
         <!-- Formatting options for Netbeans IDE -->
@@ -126,7 +126,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
