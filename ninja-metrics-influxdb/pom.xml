@@ -55,7 +55,7 @@ and limitations under the License. -->
         <dependency>
             <groupId>net.alchim31</groupId>
             <artifactId>metrics-influxdb</artifactId>
-            <version>0.6.0</version>
+            <version>0.7.0</version>
         </dependency>
 
         <!-- Testing -->
