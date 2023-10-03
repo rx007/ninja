@@ -35,7 +35,7 @@
     </prerequisites>
 
     <properties>
-        <mavenVersion>3.1.1</mavenVersion>
+        <mavenVersion>3.5.2</mavenVersion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
