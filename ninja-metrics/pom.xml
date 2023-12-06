@@ -22,7 +22,7 @@
 	<url>http://www.ninjaframework.org</url>
 	
 	<properties>
-	   <metrics.version>3.1.0</metrics.version>
+	   <metrics.version>4.2.23</metrics.version>
 	</properties>
 
 	<build>
